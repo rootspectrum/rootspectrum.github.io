@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Rootspectrum</title>
+    <link>https://rootspectrum.github.io/posts/</link>
+    <description>Recent content in Posts on Rootspectrum</description>
+    <generator>Hugo -- 0.149.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Sep 2025 15:48:53 +0530</lastBuildDate>
+    <atom:link href="https://rootspectrum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://rootspectrum.github.io/posts/introduction/</link>
+      <pubDate>Sat, 06 Sep 2025 15:48:53 +0530</pubDate>
+      <guid>https://rootspectrum.github.io/posts/introduction/</guid>
+      <description>&lt;p&gt;This is Introduction to the blog&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
