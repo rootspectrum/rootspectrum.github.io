@@ -6,14 +6,16 @@
     <description>Recent content on Rootspectrum</description>
     <generator>Hugo -- 0.149.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Sep 2025 15:48:53 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 20:49:48 +0530</lastBuildDate>
     <atom:link href="https://rootspectrum.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>https://rootspectrum.github.io/posts/introduction/</link>
-      <pubDate>Sat, 06 Sep 2025 15:48:53 +0530</pubDate>
-      <guid>https://rootspectrum.github.io/posts/introduction/</guid>
-      <description>&lt;p&gt;This is Introduction to the blog&lt;/p&gt;</description>
+      <title>Top 10 Linux Commands</title>
+      <link>https://rootspectrum.github.io/posts/linux/top-10-linux-commands/</link>
+      <pubDate>Sat, 06 Sep 2025 20:49:48 +0530</pubDate>
+      <guid>https://rootspectrum.github.io/posts/linux/top-10-linux-commands/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.techrepublic.com%2Fuploads%2F2021%2F08%2Ftux-new.jpg&amp;f=1&amp;nofb=1&amp;ipt=a0c00ab084aa775261c59ffb02c3d13d2e013d8cf49d63b1b26b81a31fe2cead&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Linux   is  open source  operating  system built on Linux kernel. Being Open source it has become a favourite for hackers . So for starting hacking learning linux is  your first step in world of security&lt;/p&gt;
+&lt;p&gt;Here are top 10 linux commands every hacker must learn&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
